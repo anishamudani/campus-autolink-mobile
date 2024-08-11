@@ -1,0 +1,52 @@
+SPM ALL QUESTIONS COMPILATION
+
+GROUP PRESENTATIONS WEEK THREE
+1. Explain the phases of the Waterfall model and Conventional s/w management performance.
+2. Define Software Economics and Pragmatic s/w cost estimation
+3. Which are the important trends in improving Software economics?
+4. Explain five staffing principles offered by Boehm.
+5. What are Peer Inspections?
+5..
+Explain the principles of conventional software
+engineering.
+7 What are the principles of modern software management?
+
+8. Explain two stages of the life cycle of engineering and production.
+9. Explain the different phases of the life cycle process.
+10. What is the goal of the Inception phase, Elaboration phase, Construction phase and Transition
+phase.
+11. Explain the overview of the artifact set
+12. Write notes on the following:
+(a) Management Artifacts (b) Engineering Artifacts (c) Pragmatic Artifacts
+
+Define Model-Based software architecture.
+13. Explain the various process workflows.
+14. Define typical sequence of life cycle checkpoints.
+15.
+Explain the general status of plans, requirements and product across the major
+milestones.
+16. Explain conventional and evolutionary work break down structures.
+17. Explain the planning balance throughout the life cycle.
+
+GROUP ASSIGNMENT: Answer any five questions (each question carries 10 marks)
+18. Define metric. Discuss seven core metrics for project control and process instrumentation
+with suitable examples?
+19. List the three management indicators that can be used as core metrics on software
+projects. Specify the meaning of each?
+20. Explain the characteristics of good software metric. Discuss the metrics automation using
+appropriate example?
+21. Explain on the quality indicators that can be used as core metrics on software projects.
+22. What are Management Indicators? explain using suitable examples.
+23. Define MTBF and Maturity. How are these related to each other?
+24. Briefly explain what Quality Indicators are.
+25. Write short notes on Pragmatic software metrics
+
+
+
+Class Test Questions
+Explain the propertiues of morden s/w mangement? (5)
+Explain the principles of conventional s/w engineering?(5) 
+State and explain the primary objectives of the inception phase?(10)
+What is work breakdown structure?(5)
+Explain the cost Estimation and scheduling Process?(10)
+What are the characteristics of a good software metric?(15)

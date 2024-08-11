@@ -1,0 +1,27 @@
+Database design
+
+3 tables
+
+1. Passenger Information
+	text Name
+	text Surname
+	text gender
+	number phone
+	email email
+
+2.Driver Information
+	text Name
+	text Surname
+	text gender
+	int number phone
+	email email
+	text Licence Number
+	text Vehicle Model
+	text vehicle reg
+	
+
+3. Ride Information
+	text pickup point
+	time Depature Time
+	text Destination
+	int Available seats
